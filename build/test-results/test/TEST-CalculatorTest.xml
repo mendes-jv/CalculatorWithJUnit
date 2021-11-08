@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-11-08T14:58:24" hostname="PC-MENDES1" time="0.017">
+  <properties/>
+  <testcase name="divide()" classname="CalculatorTest" time="0.012"/>
+  <testcase name="plus()" classname="CalculatorTest" time="0.0"/>
+  <testcase name="minus()" classname="CalculatorTest" time="0.0"/>
+  <testcase name="power()" classname="CalculatorTest" time="0.002"/>
+  <testcase name="multiply()" classname="CalculatorTest" time="0.0"/>
+  <testcase name="squareRoot()" classname="CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
